@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "angular-material": "^1.2.5",
+    "forms-angular": "^0.12.0-beta.192c"
+  }
+}
